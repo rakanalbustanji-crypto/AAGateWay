@@ -1,3 +1,10 @@
+
+
+
+
+
+
+
 # AAGateWay
 
 A super simple app which allows the connection to Android Auto over Wifi. It requires an Android Auto compatible car in the first place.
